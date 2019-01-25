@@ -29,10 +29,7 @@ https://youtu.be/NREjoOUW_0c
 <iframe width="640" height="360" src="https://www.youtube.com/embed/NREjoOUW_0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="col-lg-8 col-sm-12 text-center mb-4">
-                <audio id="sound1" src="https://www.youtube.com/embed/NREjoOUW_0c" preload="auto"></audio>
-                <button onclick="document.getElementById('sound1').play();" class="btn btn-default btn-block">
-                    y=x^2
-                </button>
+              <iframe width="640" height="360" src="https://www.youtube.com/embed/NREjoOUW_0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **the answer is**
