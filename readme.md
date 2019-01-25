@@ -43,6 +43,8 @@ https://github.com/YOONAHLEE/Capstone2/blob/master/y%3Dx.mp4
 </audio>
 
 
+!video[ title ](https://youtu.be/NREjoOUW_0c){ size=10 }
+
 
 ### way3
 <html>
