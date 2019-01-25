@@ -18,10 +18,11 @@ The sense of sight takes a dominating role in learning mathematical graphs. That
 
 
 
-**Can you guess the graph?**
-'''player
+### Can you guess the graph?
+
+```player
 https://www.youtube.com/watch?v=NREjoOUW_0c&feature=youtu.be
-'''
+```
 
 
 
