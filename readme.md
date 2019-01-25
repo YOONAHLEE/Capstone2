@@ -10,7 +10,7 @@ The sense of sight takes a dominating role in learning mathematical graphs. That
 
 
 
-**Three mathematical elements of graphs we’ve focused**
+## Three mathematical elements of graphs we’ve focused
 1. x-axis (parallel & serial mode)
 2. Quadrants (with & without quadrants information)
 3. Differentiability (with & without speech information)
@@ -18,19 +18,21 @@ The sense of sight takes a dominating role in learning mathematical graphs. That
 
 
 
-### Can you guess the graph?
-
+## Can you guess the graph?
+### way1
 ```player
 https://youtu.be/NREjoOUW_0c
 ```
-
+### way2
 ![viedo1](https://youtu.be/NREjoOUW_0c)
 
+### way3
 <html>
 <div class="col-lg-8 col-sm-12 text-center mb-4">
               <iframe width="640" height="360" src="https://www.youtube.com/embed/NREjoOUW_0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </html>
+### way4
+[[embed url=https://youtu.be/NREjoOUW_0c]]
 
-[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
-**the answer is**
+## the answer is
