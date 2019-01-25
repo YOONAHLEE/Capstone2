@@ -24,10 +24,8 @@ The sense of sight takes a dominating role in learning mathematical graphs. That
 https://www.youtube.com/watch?v=NREjoOUW_0c&feature=youtu.be
 ```
 
+![viedo1](https://www.youtube.com/watch?v=NREjoOUW_0c&feature=youtu.be)
 
-```player
-https://3yes.dooray.com/project/drive-files/2365319339322546999
-```
 
 
 
