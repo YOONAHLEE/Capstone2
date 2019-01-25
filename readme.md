@@ -33,13 +33,16 @@ https://github.com/YOONAHLEE/Capstone2/blob/master/y%3Dx.mp4
 
 [video1](https://youtu.be/NREjoOUW_0c)
 
-![](https://github.com/YOONAHLEE/Capstone2/blob/master/y%3Dx.mp4)
+![video2](https://github.com/YOONAHLEE/Capstone2/blob/master/y%3Dx.mp4)
+
 ### way3
 <html>
 <div class="col-lg-8 col-sm-12 text-center mb-4">
               <iframe width="640" height="360" src="https://www.youtube.com/embed/NREjoOUW_0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </html>
+
+
 ### way4
 [[embed url=https://youtu.be/NREjoOUW_0c]]
 
