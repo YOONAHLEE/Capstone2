@@ -21,13 +21,13 @@ The sense of sight takes a dominating role in learning mathematical graphs. That
 ### Can you guess the graph?
 
 ```player
-https://www.youtube.com/watch?v=NREjoOUW_0c&feature=youtu.be
+https://youtu.be/NREjoOUW_0c
 ```
 
-![viedo1](https://www.youtube.com/watch?v=NREjoOUW_0c&feature=youtu.be)
+![viedo1](https://youtu.be/NREjoOUW_0c)
 
 
-<iframe width="854" height="480" src="https://www.youtube.com/watch?v=NREjoOUW_0c&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://youtu.be/NREjoOUW_0c" frameborder="0" allowfullscreen></iframe>
 
 
 **the answer is**
