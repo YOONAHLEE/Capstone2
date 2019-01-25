@@ -45,6 +45,7 @@ https://github.com/YOONAHLEE/Capstone2/blob/master/y%3Dx.mp4
 
 !video[ title ](https://youtu.be/NREjoOUW_0c){ size=10 }
 
+!youtube[ title ]( https://youtu.be/NREjoOUW_0c){ size=10 cycle=forever }
 
 ### way3
 <html>
