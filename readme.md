@@ -23,10 +23,17 @@ The sense of sight takes a dominating role in learning mathematical graphs. That
 ```player
 https://youtu.be/NREjoOUW_0c
 ```
+
+```player
+https://github.com/YOONAHLEE/Capstone2/blob/master/y%3Dx.mp4
+```
+
 ### way2
 ![viedo1](https://youtu.be/NREjoOUW_0c)
 
 [video1](https://youtu.be/NREjoOUW_0c)
+
+[video2](https://github.com/YOONAHLEE/Capstone2/blob/master/y%3Dx.mp4)
 ### way3
 <html>
 <div class="col-lg-8 col-sm-12 text-center mb-4">
