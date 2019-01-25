@@ -31,4 +31,6 @@ https://youtu.be/NREjoOUW_0c
               <iframe width="640" height="360" src="https://www.youtube.com/embed/NREjoOUW_0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </html>
+
+[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
 **the answer is**
