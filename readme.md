@@ -1,4 +1,4 @@
-**Math Graphs for the Visually Impaired: Audio Presentation of Elements of Mathematical Graphs **
+**Math Graphs for the Visually Impaired: Audio Presentation of Elements of Mathematical Graphs**
 Jeongyeon Kim, Yoonah Lee, Inho Seo 
 Sogang University, Seoul, Korea
 
