@@ -35,6 +35,15 @@ https://github.com/YOONAHLEE/Capstone2/blob/master/y%3Dx.mp4
 
 ![video2](https://github.com/YOONAHLEE/Capstone2/blob/master/y%3Dx.mp4)
 
+
+<audio controls="controls">
+  <source type="audio/mp3" src="https://youtu.be/NREjoOUW_0c"></source>
+  <source type="audio/ogg" src="https://youtu.be/NREjoOUW_0c"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+
+
 ### way3
 <html>
 <div class="col-lg-8 col-sm-12 text-center mb-4">
