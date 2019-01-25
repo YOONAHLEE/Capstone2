@@ -26,6 +26,7 @@ https://youtu.be/NREjoOUW_0c
 ### way2
 ![viedo1](https://youtu.be/NREjoOUW_0c)
 
+[video1](https://youtu.be/NREjoOUW_0c)
 ### way3
 <html>
 <div class="col-lg-8 col-sm-12 text-center mb-4">
